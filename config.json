@@ -107,7 +107,8 @@
 	"name": "mfizz",
 	"path": "./fonts/font-mfizz.ttf",
 	"map-names": "./fonts/font-mfizz-map",
-	"excludes": [ "0x20" ]
+	"excludes": [ "0x20" ],
+	"move-vertically": -150
     },
     {
 	"name": "firacode",
